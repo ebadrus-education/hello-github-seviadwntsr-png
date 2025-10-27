@@ -1,0 +1,10 @@
+# Build files
+*.exe
+*.out
+*.obj
+*.obj
+*.o 
+
+# Editor settings
+.vscode/
+.idea/
